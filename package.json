@@ -1,0 +1,9 @@
+{
+  "name": "roblox-rankgun-server",
+  "version": "1.0.0",
+  "description": "Roblox RankGun server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
